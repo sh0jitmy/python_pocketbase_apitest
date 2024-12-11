@@ -1,0 +1,4 @@
+[
+    {"title": "Record 1", "description": "This is Description 1", "created_at": "2024-01-01T00:00:00Z"},
+    {"title": "Record 2", "description": "This is Description 2", "created_at": "2024-01-02T00:00:00Z"}
+]
